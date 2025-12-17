@@ -42,6 +42,9 @@ arifa-cyber-corps-website/
 
 ```
 
+<img width="1760" height="960" alt="chart-site-slow" src="https://github.com/user-attachments/assets/7f0f3077-6bf2-4516-bf70-ea5a8b379721" />
+
+
 ## Technologies Used
 
 - HTML5
